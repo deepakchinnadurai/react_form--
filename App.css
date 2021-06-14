@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+ 
+  padding: 150px;
+}
+
+.login{
+  background: black;
+  color:white;
+  border-color: aliceblue;
+  border-radius: 10px;
+  width: 150px;
+  height:30px;
+  
+}
+

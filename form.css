@@ -1,0 +1,49 @@
+.input{
+    
+    border-color: black;
+    background:'white';
+    line-height: 2em;
+    size: 880px;
+}
+
+.btn{
+    color:black;
+    background-color:white;
+    width: 200px;
+    height:30px;
+    
+}
+
+.btn:hover{
+    background-color:black;
+    color:white;
+}
+
+.form{
+    background-color:blue;
+    width:600px;
+    height:200px;
+    position: relative;
+    left:230px;
+    padding:20px;
+}
+
+
+.form2{
+    background-color:yellow;
+    width:600px;
+    height:300px;
+    position: relative;
+    left:230px;
+    padding:20px;
+}
+
+
+.form3{
+    background-color:red;
+    width:600px;
+    height:200px;
+    position: relative;
+    left:230px;
+    padding:20px;
+}
